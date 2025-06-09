@@ -119,22 +119,6 @@ Perfect for:
 - ✈️ **Travel Companions** - Trip expenses
 - 🎉 **Event Organizers** - Group purchases
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
-## 🗺 Roadmap
-
-- **v1.1**: Multi-currency support, Mobile app, Analytics
-- **v2.0**: Traditional payment integration, AI categorization
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 
 ---
