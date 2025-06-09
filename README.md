@@ -51,7 +51,7 @@ cd ../../move && sui move build
 ### Run Application
 **Terminal 1 - Backend:**
 ```bash
-cd sui_back/backend && npm run dev  # Port 5000
+cd sui_back/backend && node server.js  # Port 5000
 ```
 
 **Terminal 2 - Frontend:**
