@@ -97,13 +97,13 @@ suisplit/
 ### Available Scripts
 ```bash
 # Frontend (from sui_back/frontend/)
-npm run dev          # Development server
-npm run build        # Production build
-npm run lint         # Code linting
+npm install
+npm run dev
+
 
 # Backend (from sui_back/backend/)
-npm run dev          # Development server
-npm run build        # Production build
+npm install         
+node server.js
 
 # Smart Contracts (from move/)
 sui move build       # Build contracts
